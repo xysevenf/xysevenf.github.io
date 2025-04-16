@@ -1,0 +1,30 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "JS2F2S22CF.com.gorod.sputnik",
+        ],
+        "components": [
+          {
+            "/": "/",
+            "comment": ""
+          },
+          {
+            "/": "/index",
+            "comment": ""
+          },
+          {
+            "/": "/deeplink/*",
+            "comment": ""
+          }
+        ]
+      }
+    ]
+  },
+  "webcredentials": {
+    "apps": [
+      "JS2F2S22CF.com.gorod.sputnik"
+    ]
+  }
+}

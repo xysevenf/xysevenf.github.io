@@ -1,0 +1,18 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "sputnik.axmor.com",
+      "sha256_cert_fingerprints": ["16:B7:0F:3E:FD:3A:86:B6:78:CA:B9:D3:BC:58:4B:DD:54:20:2B:C6:A0:1E:2F:45:BC:E4:11:1F:45:31:CE:A2"]
+    }
+  },
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "sputnik.axmor.com",
+      "sha256_cert_fingerprints": ["EB:73:2B:EE:83:E5:26:DA:0F:DE:E3:60:0A:B0:0B:4F:F4:6B:57:CB:60:8C:C4:35:8E:DC:C2:F8:B3:CE:B4:2D"]
+    }
+  }
+]
