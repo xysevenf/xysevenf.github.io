@@ -11,11 +11,7 @@
             "comment": ""
           },
           {
-            "/": "/launchvehicle",
-            "comment": ""
-          },
-          {
-            "/": "/deeplink/*",
+            "/": "/dp/*",
             "comment": ""
           }
         ]
